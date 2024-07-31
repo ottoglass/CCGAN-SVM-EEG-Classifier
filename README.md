@@ -19,4 +19,4 @@ This project combines Conditional Generative Adversarial Networks (CCGAN) and Su
 3. Run the main script: `python main.py`
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPLv3 License.
